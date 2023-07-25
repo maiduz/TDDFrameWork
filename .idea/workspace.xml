@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c4699ca-597d-40bc-a5b6-13db5598365c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/HelpCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestHelpCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/EtsyHomepage/EtsyHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/EtsyHomepage/EtsyHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/ChangeLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/ChangeLanguage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/CheckMyTrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/CheckMyTrip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/CovidUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/CovidUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/DestinationDeals.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/DestinationDeals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/FlightCheckIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/FlightCheckIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/LogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/MileagePlusProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/MileagePlusProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/PromotionUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/PromotionUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/SearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/TravelInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/TravelInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/UnitedAirlinesHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/UnitedAirlinesHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/VerifyFlightStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/UnitedAirlineHomepage/VerifyFlightStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/WebElements/EtsyElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/WebElements/EtsyElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/WebElements/UnitedElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/WebElements/UnitedElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/reporting/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/main/java/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/Etsy/TestEtsyHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/Etsy/TestEtsyHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestChangeLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestChangeLanguage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestCheckMyTrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestCheckMyTrip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestCovidUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestCovidUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestDestinationDeals.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestDestinationDeals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestFlightCheckIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestFlightCheckIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestFlightStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestFlightStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestLogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestMileagePlusProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestMileagePlusProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestPromotionUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestPromotionUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestSearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestTravelInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestTravelInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestUnitedHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/java/United/TestUnitedHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/resources/EtsyTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/resources/EtsyTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/src/test/resources/UnitedTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/src/test/resources/UnitedTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/EtsyHomepage/EtsyHomepage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/GeicoHomepage/GeicoHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/GeicoHomepage/GeicoHomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/UnitedAirlineHomepage/UnitedAirlinesHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/UnitedAirlineHomepage/UnitedAirlinesHomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/WebElements/EtsyElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/WebElements/GeicoElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/WebElements/GeicoElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/WebElements/UnitedElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/WebElements/UnitedElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/reporting/ApplicationLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/reporting/ApplicationLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/reporting/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/reporting/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/reporting/ExtentTestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/reporting/ExtentTestManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/reporting/TestLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/reporting/TestLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/utility/ConnectDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/utility/ConnectDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/utility/ExcelReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/utility/ExcelReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/classes/utility/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/classes/utility/Utility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/Etsy Test Suite/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/Etsy Test Suite/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/Etsy Test Suite/HomePage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/Etsy Test Suite/HomePage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/Geico Test Suite/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/Geico Test Suite/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/Geico Test Suite/HomePage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/Geico Test Suite/HomePage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/United Test Suite/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/United Test Suite/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/United Test Suite/HomePage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/United Test Suite/HomePage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/junitreports/TEST-Etsy.TestEtsyHomepage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/junitreports/TEST-United.TestUnitedHomepage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Etsy Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/Geico Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/United Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/test-classes/Etsy/TestEtsyHomepage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/test-classes/EtsyTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/test-classes/EtsyTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/test-classes/Geico/TestGeicoHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/test-classes/Geico/TestGeicoHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/test-classes/United/TestUnitedHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/test-classes/United/TestUnitedHomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterTDDFramework/target/test-classes/UnitedTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterTDDFramework/target/test-classes/UnitedTest.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MasterTDDFramework" />
+  </component>
+  <component name="ProjectId" id="2T4E95DBIiPJFmZE8h6uAPfWw2u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/md_mu/OneDrive/Desktop/New folder (5)/TDD master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c4699ca-597d-40bc-a5b6-13db5598365c" name="Changes" comment="" />
+      <created>1690293797248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690293797248</updated>
+    </task>
+    <servers />
+  </component>
+</project>
